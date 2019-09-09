@@ -1,6 +1,8 @@
 # README
 
-## Requirements
+## HITT: Hypernymy Identification in Chinese Traffic Legal Text
+
+### Requirements
 
 * Python-3.7.3
 * Pandas-0.24.2
@@ -10,7 +12,7 @@
 * StanfordCoreNLP-3.9.1.1
 * joblib-0.13.2
 
-## Usage
+### Usage
 
 1. Download [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html) toolkit and the package for Chinese processing;
 2. Download pre-trained [word embedding](https://github.com/Embedding/Chinese-Word-Vectors)
